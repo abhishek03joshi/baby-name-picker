@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+.DS_Store
+.idea/
+.vscode/
+build/
+dist/
+*.spec
+winner-results.csv
+*.csv
